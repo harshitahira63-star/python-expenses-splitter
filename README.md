@@ -17,5 +17,5 @@ TECHNOLOGIES USED
 ⭐️ PYTHON
 
 AUTHOR
-Harshita HIRA
+Harshita Hira
 BTech CSE student| Beginner python projects
